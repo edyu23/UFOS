@@ -10,6 +10,6 @@ We successfully built the webpage with the aforementioned filters. To illustrate
 ![This is an image](https://github.com/edyu23/UFOS/blob/d574ae434e924a14720c7fb552cd11158847d3d3/Images/CA_US_Search.png)
 
 ### **Summary**
-Taking a look at our webpage, one major drawback is that the search function can only return exact matches so partial searches won't generate any results. I would recommend implementing something in Javascript to address user searches and search results.
+Taking a look at our webpage, one major drawback is that the search function can only return exact matches so partial searches won't generate any results. Everything is also case-sensitive. I would recommend implementing something in Javascript to address user searches and search results.
 
 I took it upon myself to add a clear filters button to make the webpage more interactive as seen in the image above.
